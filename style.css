@@ -114,3 +114,14 @@ background: rgba(229, 84, 115, 0.05);
     margin: 10px 10px 10px 250px;
     display: flex;
 }
+
+.sec-last-in{
+    margin: 10px 1500px 10px 1px;
+    padding: 10px 10px 10px 500px;
+    display: flex;
+}
+.sec-last{
+    margin: 1px 300px 1px 150px;
+    padding: 20px;
+    background-image: url('Flower\ Asset/2nd-last.png');
+}
