@@ -1,7 +1,8 @@
 
 .main{
     
-    margin: 100px 20px 10px 20px;
+    margin: 1px 300px 1px 150px;
+    padding: 10px;
     background-color: rgba(229, 84, 115, 0.10);
     display: flex;
 }
@@ -21,7 +22,7 @@
 .first-img{
  width: 350px;
 height: 400px;
-padding-left: 500px;
+padding-left: 300;
 margin: 100px 350px 100px 50px;
 }
 
@@ -41,11 +42,14 @@ margin: 100px 350px 100px 50px;
 #second-part{
 text-align: center;
 font-size: larger;
-margin: 100px 50px 2px 50px;
+margin: 20px 300px 5px 150px;
+padding: 10px;
 }
 
 .main2{
+    margin: 5px 300px 5px 100px;
     display: flex;
+
 }
 .flower1{
  width: 310px;
@@ -57,12 +61,24 @@ background: rgba(167, 33, 98, 0.15);
 
 }
 .hr-t{
+margin: 1px 300px 1px 120px;
+padding: 0px;
 display: flex;
 color: #272727;
 font-size: 34px;
-font-weight: 700;
+font-weight: 600;
 line-height: 45px;
 text-decoration-line: underline;
+}
+.extra{
+    margin: 5px 300px 5px 300px;
+    padding: 20px;
+    text-decoration: underline;
+    font-size: x-large;
+/* background-color:  #e9d0d5;  */
+}
+.e2{
+    text-align: center;
 }
 .ft1{
     margin: 10px 100px 10px 200px;
@@ -92,7 +108,7 @@ background: rgba(5, 151, 160, 0.15);
     background: rgba(71, 125, 17, 0.15);
 }
 .main-main{
-    margin: 100px 200px;
+    margin: 1px 300px 1px 150px;
     align-items: center;
     display: flex;
     border-radius: 8px;
@@ -111,7 +127,7 @@ background: rgba(229, 84, 115, 0.05);
     font-size: larger;
 }
 #img-sec{
-    margin: 10px 10px 10px 250px;
+    margin: 1px 50px 1px 230px;
     display: flex;
 }
 
@@ -122,6 +138,12 @@ background: rgba(229, 84, 115, 0.05);
 }
 .sec-last{
     margin: 1px 300px 1px 150px;
-    padding: 20px;
-    background-image: url('Flower\ Asset/2nd-last.png');
+    padding: 10px;
+    background-image: url('Flower\ Asset/2nd-last.png');background-repeat: initial;
+}
+#foot{
+    margin: 1px 300px 1px 150px;
+    text-align: center;
+    padding: 10px;
+    background-color: #111010;
 }
